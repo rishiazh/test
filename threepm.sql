@@ -8,7 +8,12 @@ drop table table_1;
  ROLL_no int,
  Name varchar(50),
  Subject varchar(80),
- Gender varchar(50)
+ Gender varchar(50)   
+
+
+
+
+
  );
  
  select *from SQL_CLASS;
